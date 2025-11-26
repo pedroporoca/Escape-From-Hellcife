@@ -1,6 +1,7 @@
 # 🦈 Escape from Hellcife
-
+<img width="949" height="462" alt="image" src="https://github.com/user-attachments/assets/4dbdf940-0cb1-4474-b0b1-0a3b1eb205c9" />
 > "O único jogo onde o calor, o trânsito e o tubarão são seus maiores inimigos."
+
 
 ## 📖 Sobre o Projeto
 
