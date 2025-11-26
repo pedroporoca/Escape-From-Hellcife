@@ -26,8 +26,8 @@ O jogo traz uma estética baseada no cotidiano de Recife/PE:
 ### ⚡ Power-Ups 
 - **Sombrinha de Frevo:** Escudo temporário (invencibilidade)
 - **Bolo de Rolo:** Recupera vida.
-- **Cuscuz** Aumenta a velocidade.
-- **Pitú** Diminui quantidade de inimigos
+- **Cuscuz:** Aumenta a velocidade.
+- **Pitú:** Diminui quantidade de inimigos
 
 
 ## 🚀 Como Rodar o Jogo
