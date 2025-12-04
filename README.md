@@ -24,6 +24,7 @@ O jogo traz uma estética baseada no cotidiano de Recife/PE:
 - **La Ursa:** Se ela te pegar, vai pedir dinheiro.
 - **O tolete voador:** Que nojo!.
 - **Rio Doce/CDU:** Cuidado, ele é perigoso demais.
+- **O santinha:** É tão ruim que vocÊ morre.
 
 ### ⚡ Power-Ups 
 - **Pitú:** Invencibilidade
