@@ -1,6 +1,7 @@
 # 🦈 Escape from Hellcife
 <img width="798" height="448" alt="image" src="https://github.com/user-attachments/assets/f6cf8f63-76d9-4bda-9664-4949ebcf6a31" />
 
+<img width="790" height="438" alt="image" src="https://github.com/user-attachments/assets/39f7a23f-5e7d-46e7-9f04-8e0da8d28afa" />
 
 
 ## 📖 Sobre o Projeto
