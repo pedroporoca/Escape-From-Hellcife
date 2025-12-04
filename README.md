@@ -1,5 +1,6 @@
 # 🦈 Escape from Hellcife
-<img width="949" height="462" alt="image" src="https://github.com/user-attachments/assets/4dbdf940-0cb1-4474-b0b1-0a3b1eb205c9" />
+<img width="798" height="448" alt="image" src="https://github.com/user-attachments/assets/f6cf8f63-76d9-4bda-9664-4949ebcf6a31" />
+
 
 
 ## 📖 Sobre o Projeto
@@ -20,14 +21,11 @@ O jogo traz uma estética baseada no cotidiano de Recife/PE:
 ### 💀 Os Inimigos (Obstáculos)
 - **Tubarão de Boa Viagem:** Cuidado ao chegar perto da água!
 - **La Ursa:** Se ela te pegar, vai pedir dinheiro.
-- **O Sol de Meio-Dia:** Drena sua energia se não beber Pitú.
+- **O tolete voador:** Que nojo!.
 - **Rio Doce/CDU:** Cuidado, ele é perigoso demais.
 
 ### ⚡ Power-Ups 
-- **Sombrinha de Frevo:** Escudo temporário (invencibilidade)
-- **Bolo de Rolo:** Recupera vida.
-- **Cuscuz:** Aumenta a velocidade.
-- **Pitú:** Diminui quantidade de inimigos
+- **Pitú:** Invencibilidade
 
 
 ## 🚀 Como Rodar o Jogo
